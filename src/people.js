@@ -1,5 +1,4 @@
-const people = [
-{
+const people = [{
   "id": 1,
   "first_name": "Thorpe",
   "last_name": "Hartman",
